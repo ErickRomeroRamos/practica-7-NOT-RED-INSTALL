@@ -8,8 +8,8 @@
 ### Este repositorio muestra la primer practica creada en NODE-RED donde se crea un grupo y se visualiza los valores asignados
 # Instalación de Dashboard
 ## Abrimos la pestaña de opciones y elegimos Manage palette
-![image](https://github.com/ErickRomeroRamos/practica-7-NOT-RED-INSTALL/assets/153964793/9e36bc4c-4164-4c90-b2e1-864d0315f52f)
-# Configuramos cada parametro y color a los grupos
-![Uploading image.png…]()
 
+# Configuramos cada parametro y color a los grupos
+
+![image](https://github.com/ErickRomeroRamos/practica-7-NOT-RED-INSTALL/assets/153964793/9e36bc4c-4164-4c90-b2e1-864d0315f52f)
 
