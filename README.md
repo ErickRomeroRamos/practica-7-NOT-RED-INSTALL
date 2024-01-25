@@ -8,3 +8,5 @@
 ### Este repositorio muestra la primer practica creada en NODE-RED donde se crea un grupo y se visualiza los valores asignados
 # Instalación de Dashboard
 ## Abrimos la pestaña de opciones y elegimos Manage palette
+![Uploading image.png…]()
+
